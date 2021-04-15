@@ -1,0 +1,17 @@
+.heading{
+    font-size: 20px;
+    border-radius: 30px;
+}
+body{
+    background-color:turquoise;
+    color: white;
+}
+p{
+    font-size: 20px;
+    
+}
+#camera,#result{
+    border:2px dashed blue;
+    width: 350px;
+    height: 300px;
+}
